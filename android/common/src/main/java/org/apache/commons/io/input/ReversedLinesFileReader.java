@@ -25,7 +25,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.CharsetEncoder;
 import java.nio.charset.UnsupportedCharsetException;
 
-import org.apache.commons.io.Charsets;
+// import org.apache.commons.io.Charsets;
 
 /**
  * Reads lines in a file reversely (similar to a BufferedReader, but starting at
